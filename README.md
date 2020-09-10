@@ -51,7 +51,7 @@ Documentation [found here.](https://tailwindcss.com/)
 + Making the Dropdown Interactive
 + Adapting the Dropdown for Mobile
 
-### STYLING FORM ELEMENTS *not released*
+### STYLING FORM ELEMENTS (*not released*)
 
 + Styling basic text inputs
 + Using positioning to build a search input group
@@ -60,21 +60,21 @@ Documentation [found here.](https://tailwindcss.com/)
 + Styling custom checkboxes and radio buttons
 + Using the custom forms plugin
 
-### WORKING WITH CMS CONTENT *not released*
+### WORKING WITH CMS CONTENT (*not released*)
 
 + Targeting elements when you can't add classes
 + Styling headings
 + Styling paragraph text
 + Styling lists
 
-### LAYOUT PATTERNS *not released*
+### LAYOUT PATTERNS (*not released*)
 
 + Building a responsive sidebar layout with flexbox
 + Building responsive grids
 + Building a sticky footer
 + Building a side-scrolling card layout
 
-### EXTENDING TAILWIND *not released*
+### EXTENDING TAILWIND (*not released*)
 
 + Using custom fonts
 + Using a custom color palette
